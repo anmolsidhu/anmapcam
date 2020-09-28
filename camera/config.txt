@@ -1,0 +1,34 @@
+{
+    "Color_Threshold": [
+        {
+            "color": "red",
+            "value": 50
+        },
+        {
+            "color": "green",
+            "value": 50
+        },
+        {
+            "color": "blue",
+            "value": 50
+        }
+    ],
+    "ROI": [
+        {
+            "position": "U1",
+            "value": 0
+        },
+        {
+            "position": "V1",
+            "value": 0
+        },
+        {
+            "position": "U2",
+            "value": 640
+        },
+        {
+            "position": "V2",
+            "value": 480
+        }
+    ]
+}
